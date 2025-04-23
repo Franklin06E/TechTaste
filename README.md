@@ -1,16 +1,25 @@
-# myapp
+# TechTaste 🍽️
 
-A new Flutter project.
+Aplicativo desenvolvido durante o projeto final da **Imersão Mobile da Alura**. O **TechTaste** é um app de restaurante digital que apresenta um cardápio interativo, permitindo ao usuário navegar entre as opções, visualizar detalhes dos pratos e simular uma experiência real de pedido.
 
-## Getting Started
+## 🚀 Tecnologias Utilizadas
 
-This project is a starting point for a Flutter application.
+- **Flutter**  
+- **Dart**  
+- **Provider** (gerenciamento de estado)  
+- **Firebase IDX** (ambiente de desenvolvimento)
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Tela inicial com categorias de pratos  
+- Visualização de detalhes dos pratos  
+- Layout moderno e responsivo com base em design do Figma  
+- Navegação fluida entre telas  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Aprendizados
+
+Durante o desenvolvimento do projeto, pratiquei conceitos como:
+- Gerenciamento de estado com Provider
+- Organização de código por camadas
+- Construção de UI moderna com Flutter
+
